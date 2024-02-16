@@ -1,0 +1,14 @@
+public class MakingPopcorn
+{
+    public static void main(String[] args)
+    {
+        System.out.print("3 Ways to Regulate Temperature\n");
+        System.out.print("Each of the 3 methods below is an example of three of the ways the human body regulates its temperature.\n\n");
+        System.out.print("Conduction\n");
+        System.out.print("A type of heat transfer due to contact with another surface, such as sitting on a cold metal chair.\n\n");
+        System.out.print("Convection\n");
+        System.out.print("A type of heat transfer occuring through air or water, such as wading into a cool lake.\n\n");
+        System.out.print("Radiation\n");
+        System.out.print("A type of heat transfer from infrared rays, such as feeling warmer on hot pavement or a hot sidewalk.\n\n");
+    }
+}
