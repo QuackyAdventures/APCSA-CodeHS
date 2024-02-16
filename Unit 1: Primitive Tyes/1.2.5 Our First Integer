@@ -1,0 +1,13 @@
+public class Variables
+{
+    public static void main(String[] args)
+    {
+        // this peice of code intializes the integer, 2023, into the primative variable, year. If you have taken algebra, 
+        // think of year as the variable x. It is difficult to work with big numbers that take take a lot of time to type. 
+        // Thus, it is much easier to assign it to a reusable variable. 
+        int year = 2023;
+        System.out.print ("The current year is ");
+        // Integers (or int) are a PRIMITIVE variable. Thus, they do not need to be in quotes to be printed. 
+        System.out.println(year);
+    }
+}
