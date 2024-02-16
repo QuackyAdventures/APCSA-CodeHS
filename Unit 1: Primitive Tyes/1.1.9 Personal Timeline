@@ -1,0 +1,32 @@
+public class Timeline
+{
+    public static void main(String[] args)
+    {
+        // \t will tab the content. Very useful if you want text in a perfect vertical order
+        System.out.print("Age\t| M/YY\t- Description\n");
+        System.out.print("5\t| 6/11\t- Stabbed in the eye at robotics camp\n");
+
+        // This is a for loop. It will be covered later in this course. However, it is very useful if you want to print the 
+        // same statement multiple times. For example, this statement will be printed 3 times. 
+        for (int i = 0; i < 3; i++) {
+            System.out.print("\t|\n");
+        }
+        System.out.print("7\t| 6/11\t- Crashed a pretend plane into pretend airport\n");
+        for (int i = 0; i < 3; i++) {
+            System.out.print("\t|\n");
+        }
+        System.out.print("9\t|\n");
+        System.out.print("\t| 8/15\t- Went to Macau for the 1st time (didn't gamble)\n");
+        for (int i = 0; i < 2; i++) {
+            System.out.print("\t|\n");
+        }
+        System.out.print("11\t|\n");
+        System.out.print("\t| 3/7\t- Skiied in 1st (and only) Big Mountain Competition\n");
+        for (int i = 0; i < 2; i++) {
+            System.out.print("\t|\n");
+        }
+        System.out.print("13\t| 3/19\t- Accepted to SI\n");
+        System.out.print("\t|\n \t| 4/28\t- First Sectionals Cut (200 Free)\n \t|\n");
+        System.out.print("15\t| 4/29\t- First Futures Cut (200 Free)\n");
+    }
+}
