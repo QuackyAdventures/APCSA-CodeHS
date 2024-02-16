@@ -2,6 +2,7 @@ public class Art
 {
     public static void main(String[] args)
     {
+    // Each piece of text INSIDE the parentheses is entered on a separate line
        System.out.println ("   ()_____");
        System.out.println ("  //     O)___");
        System.out.println(" //           )");
