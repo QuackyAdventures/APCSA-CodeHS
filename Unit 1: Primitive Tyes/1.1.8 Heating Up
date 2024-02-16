@@ -2,6 +2,8 @@ public class MakingPopcorn
 {
     public static void main(String[] args)
     {
+        // \n acts like a println statement: it moves the next piece of text to the line subsequent. 
+        // NOTE: \n can only be entered inside the parentheses AND quotes.
         System.out.print("3 Ways to Regulate Temperature\n");
         System.out.print("Each of the 3 methods below is an example of three of the ways the human body regulates its temperature.\n\n");
         System.out.print("Conduction\n");
