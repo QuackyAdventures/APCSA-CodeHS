@@ -2,7 +2,8 @@ public class TomatoEssay
 {
     public static void main(String[] args)
     {
-        // Start here!
+        // println acts like the return key: the next print statement will be on the subsequent line. 
+        // print just prints the statement on the current line (dictated by the code above)
         System.out.println("Is a tomato a fruit or a vegetable?");
         System.out.print("While biologically speaking a tomato");
         System.out.println(" is a fruit, legally speaking it is a vegetable!");
