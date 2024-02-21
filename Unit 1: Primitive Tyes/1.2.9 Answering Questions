@@ -1,0 +1,19 @@
+public class Variables 
+{
+    public static void main(String[] args)
+    {
+        String bestFriendsName = "Tracy the Turtle";
+        int luckyNumber = 3;
+        double roomSqFootage = 115.46;
+        boolean doesBallet = false;
+
+        // prints "Tracy the Turtle
+        System.out.println(bestFriendsName);
+        // prints "3"
+        System.out.println(luckyNumber);
+        // prints "115.46"
+        System.out.println(roomSqFootage);
+        // prints "false"
+        System.out.println(doesBallet);
+    }
+}
